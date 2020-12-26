@@ -1,0 +1,20 @@
+{
+  "name": "learn-stream-adventure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "stream-adventure"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "stream-adventure": "^4.3.0"
+  },
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "split2": "^3.2.2",
+    "through2": "^4.0.2"
+  }
+}
